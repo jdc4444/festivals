@@ -1,0 +1,55 @@
+{
+  "regions": [
+    {
+      "id": "himalaya-detail",
+      "path": "./assets/himalaya-detail_z12.png",
+      "z": 12,
+      "x_min": 3029,
+      "x_max": 3039,
+      "y_min": 1713,
+      "y_max": 1722,
+      "lon_min": 86.3,
+      "lon_max": 87.1,
+      "lat_min": 27.5,
+      "lat_max": 28.2,
+      "feather_deg": 0.06,
+      "strength": 1.0,
+      "width": 2816,
+      "height": 2560
+    },
+    {
+      "id": "alps-detail",
+      "path": "./assets/alps-detail_z12.png",
+      "z": 12,
+      "x_min": 2126,
+      "x_max": 2134,
+      "y_min": 1452,
+      "y_max": 1460,
+      "lon_min": 6.9,
+      "lon_max": 7.6,
+      "lat_min": 45.8,
+      "lat_max": 46.3,
+      "feather_deg": 0.05,
+      "strength": 1.0,
+      "width": 2304,
+      "height": 2304
+    },
+    {
+      "id": "rockies-detail",
+      "path": "./assets/rockies-detail_z12.png",
+      "z": 12,
+      "x_min": 831,
+      "x_max": 839,
+      "y_min": 1544,
+      "y_max": 1552,
+      "lon_min": -106.9,
+      "lon_max": -106.2,
+      "lat_min": 39.9,
+      "lat_max": 40.4,
+      "feather_deg": 0.05,
+      "strength": 1.0,
+      "width": 2304,
+      "height": 2304
+    }
+  ]
+}
